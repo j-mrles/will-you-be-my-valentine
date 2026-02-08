@@ -20,7 +20,7 @@ const NO_BUTTON_PHRASES = [
   "But :*(",
   "I am going to die",
   "Yep im dead",
-  "ok ur talking to nathan's ghost",
+  "ok ur talking to javier's ghost",
   "please babe",
   ":((((",
   "PRETTY PLEASE",
